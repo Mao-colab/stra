@@ -1,6 +1,4 @@
 *.db
 *.log
 *.iml
-target/
-bit/
-.idea/
+
