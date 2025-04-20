@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <book id="1">
+        <title>Если все кошки в мире исчезнут</title>
+        <author>Гэнки Кавамура</author>
+        <year>2024</year>
+        <genre>Современная литература</genre>
+        <price>12.29</price>
+    </book>
+    <book id="2">
+        <title>Жизнь на продажу</title>
+        <author>Юкио Мисима</author>
+        <year>2023</year>
+        <genre>Роман</genre>
+        <price>12.80</price>
+    </book>
+    <book id="3">
+        <title>Клуб неисправимых оптимистов</title>
+        <author>Жан-Мишель Генассия</author>
+        <year>2022</year>
+        <genre>Европейская проза</genre>
+        <price>16.90</price>
+    </book>
+</library>

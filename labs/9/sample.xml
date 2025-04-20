@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Новости Технологий</title>
+    <link>https://example.com/technews</link>
+    <description>Последние новости технологий</description>
+    <language>ru</language>
+    <item>
+      <title>Новая версия смартфона</title>
+      <link>https://example.com/technews/smartphone</link>
+      <description>Компания представила новую модель смартфона с улучшенными характеристиками.</description>
+      <pubDate>Sun, 20 Apr 2025 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Искусственный интеллект в медицине</title>
+      <link>https://example.com/technews/ai-medicine</link>
+      <description>Как ИИ помогает врачам в диагностике заболеваний.</description>
+      <pubDate>Sun, 20 Apr 2025 09:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
